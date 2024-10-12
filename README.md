@@ -89,6 +89,10 @@ nav {
     color: #fff;
 ![css selector](https://github.com/user-attachments/assets/cc2ad243-7194-420d-82d7-4dd9834b0c54)
 
+#melakukan validasi dokumen CSS
+![Screenshot (220)](https://github.com/user-attachments/assets/5d462d86-e8f0-411b-89e3-dd38c9b30116)
+
+
 Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
